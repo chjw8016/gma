@@ -33,6 +33,10 @@
 						</el-submenu>
 						<el-menu-item v-if="item.leaf&&item.children.length>0" :index="item.children[0].path"><i :class="item.iconCls"></i>{{item.children[0].name}}</el-menu-item>
 					</template>
+					<img src="http://img95.699pic.com/photo/00056/3912.jpg_wh860.jpg" style="width:180px;position:fixed;left:0px;bottom:50px;" />
+					<div style="width:180px;position:fixed;left:0px;bottom:0px;height:50px;line-height:50px;color:white;text-align:center;background:#42485B;">
+					ECHO技术支持 V1.0
+					</div>
 				</el-menu>
 				<!--导航菜单-折叠后-->
 				<ul class="el-menu el-menu--vertical collapsed" v-show="collapsed" ref="menuCollapsed">
@@ -306,7 +310,7 @@
 				width: 180px;
 			}
 			.content-container {
-				// background: #f1f2f7;
+				background: #fff;
 				flex:1;
 				// position: absolute;
 				// right: 0px;
