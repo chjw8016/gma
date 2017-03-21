@@ -18,7 +18,7 @@ npm run build
 ```
 ### Snapshot
 
- ![image](https://github.com/chjw8016/gma/raw/master/static/20170321160116.jpg)
+ ![image](https://github.com/chjw8016/gma/raw/master/static/20170321160116.png)
 
 ### License
 [MIT](http://opensource.org/licenses/MIT)
