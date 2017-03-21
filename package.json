@@ -1,8 +1,8 @@
 {
-    "name": "vueadmin",
-    "version": "1.0.2",
+    "name": "gma",
+    "version": "1.0.0",
     "description": "vue admin project",
-    "author": "taylor <709161610@qq.com>",
+    "author": "echo <361604415@qq.com>",
     "license": "MIT",
     "scripts": {
         "dev": "node build/dev-server.js",
