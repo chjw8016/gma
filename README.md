@@ -1,5 +1,5 @@
 # vueAdmin
-a simple admin template based on [vuejs2](http://vuejs.org/) and [element](http://element.eleme.io/#/).
+admin template based on [vuejs2](http://vuejs.org/) and [element](http://element.eleme.io/#/) and [vuex](https://github.com/vuejs/vuex).
 
 ### Usage
 
@@ -21,7 +21,7 @@ npm run build
 
 Modern browsers and Internet Explorer 10+.
 
-### snapshots
+### Snapshots
 ![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/login.png)
 ![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/main.png)
 ![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/edit.jpg)
