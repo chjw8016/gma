@@ -16,13 +16,5 @@ npm run dev
 npm run build
 
 ```
-
-### Browser Support
-
-Modern browsers and Internet Explorer 10+.
-
-### Snapshots
-![image](http://pan.baidu.com/s/1qY33SZy)
-
 ### License
 [MIT](http://opensource.org/licenses/MIT)
