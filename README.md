@@ -22,9 +22,7 @@ npm run build
 Modern browsers and Internet Explorer 10+.
 
 ### Snapshots
-![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/login.png)
-![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/main.png)
-![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/edit.jpg)
+![image](http://pan.baidu.com/s/1qY33SZy)
 
 ### License
 [MIT](http://opensource.org/licenses/MIT)
